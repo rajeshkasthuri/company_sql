@@ -24,4 +24,6 @@ select * from location where location_id = id;
   select * from entity_intersection where entity_uuid = 'Village UUID';
 ```  
   from this you will get `associated_entity_uuid` 
------------------------------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------------
+
+dfasdfdasfasdfds
