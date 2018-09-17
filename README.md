@@ -18,3 +18,9 @@ select * from location_association where parent_location_id = child_location_id;
 ```sql
 select * from location where location_id = id;
 ```
+#### for getting the grids under the village 
+  use the entity_intersection table to get the uuid of the grid
+```sql  
+  select * from entity_intersection where entity_uuid = 'Village UUID';
+```  
+  from this you will get `associated_entity_uuid` 
