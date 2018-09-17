@@ -26,4 +26,3 @@ select * from location where location_id = id;
   from this you will get `associated_entity_uuid` 
 ## ---------------------------------------------------------------------------------------------
 
-dfasdfdasfasdfds
